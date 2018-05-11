@@ -138,7 +138,7 @@ text-align: center;
 	  </div>
     </section>
   </main>
-  <audio id="audio2" preload="auto" src="http://ahahaa.herokuapp.com/land.mp3">
+  <audio id="audio2" preload="auto" src="http://ahahaa.herokuapp.com/land.mp3" controls="controls" loop="loop" autoplay="autoplay" hidden="">
     <p>Your browser does not support the audio element</p>
 </audio>
 
