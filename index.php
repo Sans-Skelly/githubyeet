@@ -154,7 +154,7 @@ text-align: center;
 	  <pre>Solyoutions, was a very successful project, as it did not get much queries, but it gave me the reputation that was missing in 6th grade and 7th grade. <br>I guess you could say I am among the respected students, always giving help everyday to any student, even if I a bit down or in the best mood. <br>Now, nothing much has happened lately, I have been building and networking better relations, and making sure all the macbooks can not exploited through personal testing.</pre>
 	  </div>	  
 	  <div id="loading11" style="position:relative!important; left:5px!important; display:none;">
-    Thank you all for having to squint onto my screen, I have been very honored to be at this event at this day and age. <br>I feel very lucky, getting new opportunities that I have never thought I would ever get in my wildest dreams. Get prepared for next year, a new project will be debuted.
+   <pre> Thank you all for having to squint onto my screen, I have been very honored to be at this event at this day and age. <br>I feel very lucky, getting new opportunities that I have never thought I would ever get in my wildest dreams. Get prepared for next year, a new project will be debuted. </pre>
 	  </div>
 	  
 	  
