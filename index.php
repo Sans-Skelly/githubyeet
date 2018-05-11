@@ -72,7 +72,7 @@ text-align: center;
           // Hide the div
           $("#loading8").hide();
           // Show the div after 5s
-          $("#loading8").delay(21000).fadeIn(100);  
+          $("#loading8").delay(25000).fadeIn(100);  
       });    
   </script>   
   <script>
@@ -80,7 +80,7 @@ text-align: center;
           // Hide the div
           $("#loading9").hide();
           // Show the div after 5s
-          $("#loading9").delay(26000).fadeIn(100);  
+          $("#loading9").delay(32000).fadeIn(100);  
       });    
   </script>   
   <script>
@@ -88,7 +88,7 @@ text-align: center;
           // Hide the div
           $("#loading10").hide();
           // Show the div after 5s
-          $("#loading10").delay(32000).fadeIn(100);  
+          $("#loading10").delay(43000).fadeIn(100);  
       });    
   </script> 
   <script>
@@ -96,7 +96,7 @@ text-align: center;
           // Hide the div
           $("#loading11").hide();
           // Show the div after 5s
-          $("#loading11").delay(32000).fadeIn(100);  
+          $("#loading11").delay(60000).fadeIn(100);  
       });    
   </script>  
 </head>
@@ -127,18 +127,41 @@ text-align: center;
 	  
 	  <div id="loading3" style="position:relative!important; left:5px!important; display:none;">
       <pre>Tail: using <b>SuperSpeed</b></pre>
-	  </div>	  
+	  </div>
 	  <div id="loading4" style="position:relative!important; left:5px!important; display:none;">
-	  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" onclick="location.href='2.php';">
-      Initilization Complete!
-      </button>
+      <pre>Hello there, I'm <i>Armaan</i> 👋</pre>
+	  </div>
+	  <div id="loading5" style="position:relative!important; left:5px!important; display:none;">
+	  <pre>As you know, I'm a Mr. FSMS candidate who got elected through chess club. As you can tell, coding is my cup of tea.</pre>
+	  </div>	  
+	  <div id="loading6" style="position:relative!important; left:5px!important; display:none;">
+	  <pre>Here's my story on how I even got a chance to become who I am now.</pre>
+	  </div>
+	  
+	  <div id="loading7" style="position:relative!important; left:5px!important; display:none;">
+	  <pre>It all started in year-end of 7th grade when I heard about deployment of macbooks that I would create Solyoutions. <br>Solyoutions was where you could submit a ticket to recieve help, and I would do my best to assist you. <br>I lucked out and got a student-aide period, which helped me a lot. <br>8th grade begins, and I am relatively unknown, the spark not seen, yet..</pre>
+	  </div>
+	  
+	  <div id="loading8" style="position:relative!important; left:5px!important; display:none;">
+	  <pre>When deployment of macbooks occured, I spread Solyoutions around like crazy, helping everyone within short successions. <br>I got among the respect of my peers, they enjoyed the small help I offered, and it got noticed by the newly created Tech Hub. <br>When they noticed me, they questioned me, and asked why I am doing this, and my intentions behind this. <br>I said I just wanted to help, just a man with some quick fixes.</pre>
+	  </div>
+	  
+	  <div id="loading9" style="position:relative!important; left:5px!important; display:none;">
+	  <pre>The MIT crew loved what I did, and they appointed me to be an aide for the Tech Hub. <br>I was meeted upon Mrs. Underwood and Mr. Gonzales (Mr. Gonzales is secretly my favorite, don't tell Mrs. Underwood). <br>As their aide, I would help them with all problems that came along, making sure everyone is in tip top shape, and then eventually learning how to clean-wipe macbooks and restore them to their former state.</pre>
+	  </div>	  
+	  
+	  <div id="loading10" style="position:relative!important; left:5px!important; display:none;">
+	  <pre>Solyoutions, was a very successful project, as it did not get much queries, but it gave me the reputation that was missing in 6th grade and 7th grade. <br>I guess you could say I am among the respected students, always giving help everyday to any student, even if I a bit down or in the best mood. <br>Now, nothing much has happened lately, I have been building and networking better relations, and making sure all the macbooks can not exploited through personal testing.</pre>
+	  </div>	  
+	  <div id="loading11" style="position:relative!important; left:5px!important; display:none;">
+    Thank you all for having to squint onto my screen, I have been very honored to be at this event at this day and age. <br>I feel very lucky, getting new opportunities that I have never thought I would ever get in my wildest dreams. Get prepared for next year, a new project will be debuted.
 	  </div>
 	  
 	  
 	  </div>
     </section>
   </main>
-  <audio id="audio2" preload="auto" src="http://ahahaa.herokuapp.com/land.mp3" controls="controls" loop="loop" autoplay="autoplay" hidden="">
+	<audio id="audio2" preload="auto" src="http://ahahaa.herokuapp.com/land.mp3" controls="controls" loop="loop" autoplay="autoplay" hidden="">
     <p>Your browser does not support the audio element</p>
 </audio>
 
