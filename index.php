@@ -150,5 +150,9 @@ text-align: center;
       this.play();
     });
   </script>
+	  <script>
+   var vid = document.getElementById("audio2");
+   vid.volume = 0.3;
+  </script>
 </body>
 </html>
